@@ -237,7 +237,7 @@ Canadian University Dubai — Summer I, 2025
 
 ---
 
-## ⚠️ Notes
+## ⚠️ Notes!
 
 - All tasks were performed inside a **Kali Linux virtual machine** — do not run these commands on a production system without understanding their impact
 - The `iptables` rules in this project drop all traffic by default; adapt rules to your specific environment before applying
